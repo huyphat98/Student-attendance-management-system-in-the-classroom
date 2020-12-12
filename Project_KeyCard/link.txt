@@ -1,0 +1,6 @@
+http://www.steves-internet-guide.com/storing-iot-data-sql-database/
+
+https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
+
+https://vinasupport.com/systemd-la-gi-huong-dan-tao-va-quan-ly-systemd-services-tren-linux/
+
